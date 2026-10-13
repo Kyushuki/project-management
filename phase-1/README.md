@@ -24,4 +24,4 @@
 
 ## TOPSIS
 
-Расчет производится в [[TOPSIS.xlsx]]  
+Расчет производится в [TOPSIS](TOPSIS.xlsx)  
