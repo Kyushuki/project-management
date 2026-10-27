@@ -75,26 +75,4 @@
 	<tr>
 		<td>C4</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td>
 	</tr>
-	<tr>
-		<td></td>
-	</tr>
-	<tr>
-		<td rowspan="6">Локальные веса</td><td></td>
-		<td>C1</td><td>C2</td><td>C3</td><td>C4</td>
-	</tr>
-	<tr>
-		<td>A1</td> <td></td> <td></td> <td></td> <td></td>
-	</tr>
-	<tr>
-		<td>A2</td> <td></td> <td></td> <td></td> <td></td>
-	</tr>
-	<tr>
-		<td>A3</td> <td></td> <td></td> <td></td> <td></td>
-	</tr>
-	<tr>
-		<td>A4</td> <td></td> <td></td> <td></td> <td></td>
-	</tr>
-	<tr>
-		<td>A5</td> <td></td> <td></td> <td></td> <td></td>
-	</tr>
 </table>
