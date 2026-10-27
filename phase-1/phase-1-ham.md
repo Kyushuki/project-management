@@ -2,7 +2,7 @@
 
 <table>
 	<tr>
-		<td></td><td></td><td colspan="4" align="center">Критерии</td><td></td>
+		<td></td><td></td><td colspan="4" align="center">Локальные веса по критериям</td><td></td>
 	</tr>
 	<tr>
 		<td></td><td></td> <td>C1</td><td>C2</td><td>C3</td><td>C4</td><td>Приоритет альтернатив</td>
