@@ -60,7 +60,7 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td rowspan="5">Матрица значимости</td><td></td>
+		<td rowspan="5">Матрица значимости<br>критериев</td><td></td>
 		<td>C1</td> <td>C2</td> <td>C3</td> <td>C4</td>
 	</tr>
 	<tr>
